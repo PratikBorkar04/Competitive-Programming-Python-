@@ -1,9 +1,0 @@
-2022-02-16 16:27:21,824 method1
-2022-02-16 16:27:40,104 method3
-2022-02-16 16:30:16,237 method1
-2022-02-16 16:30:16,237 Input from directory
-2022-02-16 16:30:16,237 [WinError 3] The system cannot find the path specified: "logging.info('method2')"
-Traceback (most recent call last):
-  File "<ipython-input-2-7e07b9e8a846>", line 37, in method1
-    a = os.listdir(z)
-FileNotFoundError: [WinError 3] The system cannot find the path specified: "logging.info('method2')"
